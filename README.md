@@ -213,3 +213,24 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 - [ ] [Site Reliability Engineering: Measuring and Managing Reliability](https://www.coursera.org/learn/site-reliability-engineering-slos)
 - [ ] [School of SRE](https://linkedin.github.io/school-of-sre)
 
+
+
+
+
+https://kube.events/
+https://medium.com/@pv.safronov/sre-interview-resources-cdb59c3af24
+https://sre.google/classroom/distributed-pubsub/
+https://sre.google/classroom/
+https://docs.google.com/presentation/d/1X4IP_9Sk0oMfofbB8_srGlKkOQiTxfBhKGEee3NQvnU/view#slide=id.g8bc343e95e_0_396
+https://sre.google/books/
+https://sre.google/workbook/table-of-contents/
+https://sre.google/sre-book/table-of-contents/
+https://man7.org/tlpi/code/online/index.html
+https://sre.google/workbook/non-abstract-design/
+https://github.com/mikonoid/devops-SRE-sysadmin-interview-questions
+https://github.com/bregman-arie/devops-exercises
+https://github.com/mxssl/sre-interview-prep-guide
+https://medium.com/tech-at-wildlife-studios/wildlifes-sre-interview-process-and-how-to-prepare-for-it-33ad805880b8
+https://github.com/DevOps-Brazil/Vagas/issues
+https://github.com/mikonoid/devops-SRE-sysadmin-interview-questions
+https://www.ibm.com/cloud/learn/site-reliability-engineering?msclkid=24120df7add511ecb158ff98fede7533
